@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+_Welcome_ is a GitHub bot that greets new team members!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+_Welcome_ automatically generates friendly messages when new team members create their first issue and open or merge their first pull request.
 
 ## Getting started
 
